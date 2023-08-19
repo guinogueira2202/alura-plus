@@ -1,0 +1,8 @@
+/*LINKS ATOMS*/
+.atom-link-primary {
+    color: var(--color-text-primary);
+    font-family: var(--font-family-primary);
+    font-size: var(--text-size-big);
+    font-weight: var(--font-weight-secondary);
+    text-decoration: none;
+}

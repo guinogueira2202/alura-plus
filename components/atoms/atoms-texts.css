@@ -1,0 +1,21 @@
+/*TEXTS ATOMS*/
+.atom-text-big {
+    color: var(--color-text-secondary);
+    font-family: var(--font-family-primary);
+    font-size: var(--text-size-big);
+    font-weight: var(--font-weight-secondary);
+}
+
+.atom-text-medium {
+    color: var(--color-text-tertiary);
+    font-family: var(--font-family-primary);
+    font-size: var(--text-size-medium);
+    font-weight: var(--font-weight-secondary);
+}
+
+.atom-text-small {
+    color: var(--color-text-tertiary);
+    font-family: var(--font-family-primary);
+    font-size: var(--text-size-small);
+    font-weight: var(--font-weight-secondary);
+}

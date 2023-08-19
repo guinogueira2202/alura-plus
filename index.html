@@ -1,147 +1,124 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Alura Plus</title>
-    <link href="./styles/styles.css" rel="stylesheet" />
-  </head>
-  <body>
-    <main>
-      <section class="secao secao__principal">
-        <div class="secao__principal__bloco">
-          <h1 class="secao__principal__titulo">
-            Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um
-            preço único.
-          </h1>
-          <img
-            class="secao__principal__imagem"
-            loading="lazy"
-            src="./assets/combo.svg"
-            alt="Combo Alura+ e Alura língua"
-          />
-          <a href="www.alura.com.br" class="secao__principal__botao">
-            Assine por 12x de R$ 120,00*
-          </a>
-          <a
-            class="secao__principal__botao secao__principal__botao--secundario"
-          >
-            Assinar somente o Alura+
-          </a>
-          <p class="secao__principal__info">
-            *O preço pode variar caso a assinatura seja feita em outros planos.
-          </p>
-        </div>
-      </section>
 
-      <section class="secao secao__secundaria">
-        <img
-          class="secao__secundaria__imagem"
-          src="./assets/plataformas.svg"
-          alt="Imagem de um celular e um computador"
-        />
-        <div class="secao__secundaria__bloco">
-          <h2 class="secao__secundaria__titulo">Assista do seu jeito</h2>
-          <p class="secao__secundaria__texto">
-            Aproveite a tela grande da TV ou assista no tablet, laptop, celular
-            e outros aparelhos. Nossa seleção de cursos não para de crescer.
-          </p>
-        </div>
-      </section>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alura Plus</title>
+  <link href="./styles/reset.css" rel="stylesheet">
+  <link href="./styles/styles.css" rel="stylesheet" />
+</head>
 
-      <section class="secao secao__secundaria">
-        <div class="secao__secundaria__bloco">
-          <p class="secao__secundaria__texto">
-            Só o Combo+ oferece Alura+ e Alura Língua juntos para você ter
-            acesso a cursos de diversas áreas da tecnologia e aprender inglês ou
-            espanhol, onde e como quiser. Só o Combo+ oferece Alura+ e Alura
-            Língua juntos para você ter acesso a cursos de diversas áreas da
-            tecnologia e aprender inglês ou espanhol, onde e como quiser.
-          </p>
-          <a
-            href="www.alura.com.br"
-            class="secao__principal__botao botao__modificado"
-          >
-            Assine por 12x de R$ 120,00*
-          </a>
-        </div>
-        <img
-          class="secao__secundaria__imagem"
-          src="./assets/telas.svg"
-          alt="Imagem de um celular e um computador"
-        />
-      </section>
+<body class="template-body">
+  <section class="organism-hero page-hero-banner">
+    <div class="organism-hero__block">
+      <h1 class="block__title atom-title-small">
+        Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.
+      </h1>
+      <img class="block__image" loading="lazy" src="./assets/combo.svg" alt="Combo Alura+ e Alura língua" />
+      <div class="block__buttons-group">
+        <a class="atom-btn-primary" href="www.alura.com.br">Assine por 12x de R$ 120,00*</a>
+        <a class="atom-btn-secondary">Assinar somente o Alura+</a>
+        <p class="atom-text-small">*O preço pode variar caso a assinatura seja feita em outros planos.</p>
+      </div>
+    </div>
+  </section>
 
-      <section class="secao secao__secundaria">
-        <img
-          class="secao__secundaria__imagem"
-          src="./assets/notebook.svg"
-          alt="Imagem de um celular e um computador"
-        />
-        <div class="secao__secundaria__bloco">
-          <h2 class="secao__secundaria__titulo">Baixe seus cursos</h2>
-          <p class="secao__secundaria__texto">
-            Baixe e assista quando e onde quiser. Assim, seus favoritos estão
-            sempre com você, até mesmo sem internet.
-          </p>
-        </div>
-      </section>
+  <main class="organism-main">
+    <section class="organism-main__section">
+      <img class="section__image" src="./assets/plataformas.svg" alt="Imagem de um celular e um computador" />
+      <div class="section__text-group">
+        <h2 class="atom-title-big">Assista do seu jeito</h2>
+        <p class="atom-text-big">
+          Aproveite a tela grande da TV ou assista no tablet, laptop, celular
+          e outros aparelhos. Nossa seleção de cursos não para de crescer.
+        </p>
+      </div>
+    </section>
 
-      <section class="dispositivos">
-        <h2 class="dispositivos__titulo">
-          Disponível nos seus dispositivos favoritos
-        </h2>
-        <ul class="dispositivos__lista">
-          <li class="dispositivos__lista__subtitulo">
-            <img src="./assets/tv.svg" />
-            <h3>TV</h3>
-          </li>
-          <li class="dispositivos__lista__subtitulo">
-            <img src="./assets/computador.svg" />
-            <h3>Computadores</h3>
-          </li>
-          <li class="dispositivos__lista__subtitulo">
-            <img src="./assets/celular.svg" />
-            <h3>Celulares e tablets</h3>
-          </li>
-        </ul>
-      </section>
-    </main>
-    <footer class="rodape">
-      <img class="rodape__imagem" src="./assets/logo.svg" alt="Logo da Alura" />
-      <ul class="rodape_lista">
-        <li>
-          <a class="rodape_lista__link" href="#">Idioma</a>
+    <section class="organism-main__section">
+      <div class="section__text-group section__text-group--modified">
+        <p class="atom-text-big">
+          Só o Combo+ oferece Alura+ e Alura Língua juntos para você ter
+          acesso a cursos de diversas áreas da tecnologia e aprender inglês ou
+          espanhol, onde e como quiser. Só o Combo+ oferece Alura+ e Alura
+          Língua juntos para você ter acesso a cursos de diversas áreas da
+          tecnologia e aprender inglês ou espanhol, onde e como quiser.
+        </p>
+        <a class="atom-btn-primary atom-btn-primary--modified" href="www.alura.com.br">
+          Assine por 12x de R$ 120,00*
+        </a>
+      </div>
+      <img class="section__image" src="./assets/telas.svg" alt="Imagem de um celular e um computador" />
+    </section>
+
+    <section class="organism-main__section">
+      <img class="section__image" src="./assets/notebook.svg" alt="Imagem de um celular e um computador" />
+      <div class="section__text-group">
+        <h2 class="atom-title-big">Baixe seus cursos</h2>
+        <p class="atom-text-big">
+          Baixe e assista quando e onde quiser. Assim, seus favoritos estão sempre com você, até mesmo sem internet.
+        </p>
+      </div>
+    </section>
+
+    <section class="organism-main__section--modified">
+      <h2 class="atom-title-big">
+        Disponível nos seus dispositivos favoritos
+      </h2>
+      <ul class="section__device-list">
+        <li class="device-list__item">
+          <img class="" src="./assets/tv.svg" />
+          <h3 class="atom-title-medium">TV</h3>
         </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Dispositivos compatíveis</a>
+        <li class="device-list__item">
+          <img class="" src="./assets/computador.svg" />
+          <h3 class="atom-title-medium">Computadores</h3>
         </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Contrato de assinatura</a>
-        </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Politica de privacidade</a>
-        </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Proteção de dados no Brasil</a>
-        </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Anuncios personalizados</a>
-        </li>
-        <li>
-          <a class="rodape_lista__link" href="#">Ajuda</a>
+        <li class="device-list__item">
+          <img class="" src="./assets/celular.svg" />
+          <h3 class="atom-title-medium">Celulares e tablets</h3>
         </li>
       </ul>
-      <p class="rodape__texto">
-        ® 2021 Alura, Alura+ e Alura Língua. Todos os direitos reservados.
-        Serviço de assinatura paga. Conteúdo sujeito a disponibilidade.
-      </p>
-      <p class="rodape__texto">
-        Alura+ é um serviço pago, baseado em assinatura e sujeito a termos e condições. O
-        serviço Alura+ é comercializado por Aovs Sistemas de Informática S.A.,
-        Rua Vergueiro, 3185 - Liberdade, São Paulo - SP, 04101-300, Brasil e
-        CNPJ 05.555.382/0001-33
-      </p>
-    </footer>
-  </body>
+    </section>
+  </main>
+
+  <footer class="organism-footer">
+    <img class="footer__logo" src="./assets/logo.svg" alt="Logo da Alura" />
+    <ul class="footer__list">
+      <li>
+        <a class="atom-link-primary" href="#">Idioma</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Dispositivos compatíveis</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Contrato de assinatura</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Politica de privacidade</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Proteção de dados no Brasil</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Anuncios personalizados</a>
+      </li>
+      <li>
+        <a class="atom-link-primary" href="#">Ajuda</a>
+      </li>
+    </ul>
+    <p class="atom-text-medium">
+      ® 2021 Alura, Alura+ e Alura Língua. Todos os direitos reservados.
+      Serviço de assinatura paga. Conteúdo sujeito a disponibilidade.
+    </p>
+    <p class="atom-text-medium">
+      Alura+ é um serviço pago, baseado em assinatura e sujeito a termos e condições. O
+      serviço Alura+ é comercializado por Aovs Sistemas de Informática S.A.,
+      Rua Vergueiro, 3185 - Liberdade, São Paulo - SP, 04101-300, Brasil e
+      CNPJ 05.555.382/0001-33
+    </p>
+  </footer>
+</body>
+
 </html>

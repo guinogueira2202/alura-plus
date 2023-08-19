@@ -1,0 +1,28 @@
+@import './../sub-atomics/variables.css';
+
+/*TITLES ATOMS*/
+.atom-title-big {
+    color: var(--color-text-primary);
+    font-family: var(--font-family-primary);
+    font-size: var(--title-size-big);
+    font-weight: var(--font-weight-primary);
+}
+
+.atom-title-medium {
+    color: var(--color-text-primary);
+    font-family: var(--font-family-primary);
+    font-size: var(--title-size-medium);
+    font-weight: var(--font-weight-primary);
+}
+
+.atom-title-small {
+    color: var(--color-text-primary);
+    font-family: var(--font-family-primary);
+    font-size: var(--title-size-small);
+    font-weight: var(--font-weight-primary);
+}
+
+/*TITLES*/
+.block__title {
+    text-align: center;
+}

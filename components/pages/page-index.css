@@ -1,0 +1,6 @@
+@import './../sub-atomics/variables.css';
+
+.page-hero-banner {
+    background: var(--banner-home) no-repeat;
+    background-size: contain;
+}

@@ -1,47 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900);
-
-:root {
-    --cor-de-fundo: #00030C;
-    --cor-do-botao: #167BF7;
-    --cor-de-texto-primario: #FFF;
-    --cor-de-texto-secundario: #F9F9F9;
-    --cor-de-texto-terciario: #C0C0C0;
-
-    --fonte-primaria: 'Inter', sans-serif;
-
-    --tamanho-de-fonte-subtitulo: 3rem;
-    --tamanho-de-fonte-titulo: 1.75rem;
-    --tamanho-de-fonte-texto: 1rem;
-    --tamanho-de-fonte-rodape: 0.87rem;
-    --tamanho-de-fonte-info: 0.75rem;
-}
-
-* {
-    padding: 0;
-    margin: 0;
-}
-
-body {
-    box-sizing: border-box;
-    background-color: var(--cor-de-fundo);
-    color: var(--cor-de-texto-primario);
-    font-family: var(--fonte-primaria);
-    font-size: var(--tamanho-de-fonte-texto);
-    font-weight: 400;
-}
-
-main {}
-
-.secao {
-    height: 85vh;
-    display: grid;
-    grid-template-columns: 50% 50%;
-}
+@import './../components/pages/page-index.css';
+@import './../components/templates/templates.css';
+@import './../components/organisms/organisms.css';
+@import './../components/molecules/molecules.css';
+@import './../components/sub-atomics/variables.css';
+@import './../components/atoms/atoms-buttons.css';
+@import './../components/atoms/atoms-links.css';
+@import './../components/atoms/atoms-texts.css';
+@import './../components/atoms/atoms-titles.css';
+@import './../components/atoms/atoms-images.css';
 
 .secao__principal {
-    background-image: url('./../assets/background.png');
-    background-repeat: no-repeat;
-    background-size: contain;
     align-items: center;
     text-align: center;
 }

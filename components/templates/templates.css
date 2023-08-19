@@ -1,0 +1,6 @@
+@import './../sub-atomics/variables.css';
+
+.template-body {
+    box-sizing: border-box;
+    background: var(--color-background);
+}
