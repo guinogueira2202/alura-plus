@@ -23,13 +23,13 @@ Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um *
 
 <img src="./assets/readme/chrome-capture-2023-7-20-desktop-footer.png" alt="Screenshot mostrando o rodapé da página">
 
-*Por fim o rodapé com os links relevantes, direitos autorais e informações da empresa.
+*Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
 
 ---
 
-## Responsividade em Dispositivos Móveis
+## Responsividade Total em Dispositivos Móveis
 
-A página é completamente responsiva em desktops, tablets e smartphones. Como você pode ver nessa imagem de panorama completo em um dispositivo mobile.
+A página é completamente responsiva em desktops, tablets e smartphones de diferentes tamanhos. Como você pode ver nessa imagem de panorama completo em um dispositivo mobile, todos os elementos são reorganizados para caber perfeitamente na tela.
 
 <img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot mostrando a página completa no mobile">
 
