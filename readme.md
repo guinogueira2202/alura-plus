@@ -5,9 +5,10 @@ Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino
 
 ## Sobre o Projeto
 
-Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um banner, conteúdo principal e rodapé. Página web completamente responsiva em diferentes tamanhos de tela.
+Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um **banner**, **conteúdo principal** e **rodapé**. Página web completamente responsiva em diferentes tamanhos de tela.
 
-A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action". A seção do conteúdo principal mostra as vantagens do produto/serviço da plataforma. Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
+A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action". A seção do conteúdo principal mostra as vantagens do produto/
+serviço da plataforma. Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
 
 <img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_24_20.png" alt="Screenshot da visualização completa da página em desktop">
 
@@ -15,7 +16,7 @@ A seção "hero" da página contem um banner, título, logos e dois botões de "
 
 A página se adapta em telas de tablets e smartphones de diferentes tamanhos, como você pode ver nessa imagem de visualização completa da página em um smartphone. Todos os elementos são reorganizados para caber perfeitamente na tela.
 
-<img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot da visualização completa da página em smartphone">
+<img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot mostrando a página completa no mobile">
 
 ## Linguagens Utilizadas
 
@@ -39,7 +40,7 @@ A página se adapta em telas de tablets e smartphones de diferentes tamanhos, co
 
 Você pode visualizar a página web aqui: 
 
-[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Page-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
+[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Page-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://alura-plus-rose-two.vercel.app/)](https://alura-plus-rose-two.vercel.app/)
 
 ## Sobre Mim
 
