@@ -7,31 +7,15 @@ Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino
 
 Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um **banner**, **conteúdo principal** e um **rodapé**, completamente responsivos em dispositivos móveis.
 
----
+A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action". A seção do conteúdo principal mostra as vantagens do produto/serviço da plataforma. Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
 
-<img src="./assets/readme/chrome-capture-2023-7-20-desktop.png" alt="Screenshot mostrando a seção hero da página">
-
-*A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action".
-
----
-
-<img src="./assets/readme/chrome-capture-2023-7-20-desktop-content.png" alt="Screenshot mostrando a seção do conteúdo principal da página">
-
-*A seção do conteúdo principal da página mostra as vantagens do produto/serviço da plataforma.
-
----
-
-<img src="./assets/readme/chrome-capture-2023-7-20-desktop-footer.png" alt="Screenshot mostrando o rodapé da página">
-
-*Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
-
----
+<img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_24_20.png" alt="Screenshot da visualização completa da página em desktop">
 
 ## Responsividade Total em Dispositivos Móveis
 
 A página é completamente responsiva em desktops, tablets e smartphones de diferentes tamanhos. Como você pode ver nessa imagem de panorama completo em um dispositivo mobile, todos os elementos são reorganizados para caber perfeitamente na tela.
 
-<img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot mostrando a página completa no mobile">
+<img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot da visualização completa da página em smartphone">
 
 ## Linguagens Utilizadas
 
