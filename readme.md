@@ -5,7 +5,7 @@ Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino
 
 ## Sobre o Projeto
 
-Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um **banner**, **conteúdo principal** e um **rodapé**, completamente responsivos em dispositivos móveis.
+Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um **banner**, **conteúdo principal** e **rodapé**. Pagína web completamente responsiva em diferentes tamanhos de tela.
 
 ---
 
@@ -29,7 +29,7 @@ Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um *
 
 ## Responsividade Total em Dispositivos Móveis
 
-A página é completamente responsiva em desktops, tablets e smartphones de diferentes tamanhos. Como você pode ver nessa imagem de panorama completo em um dispositivo mobile, todos os elementos são reorganizados para caber perfeitamente na tela.
+A página se adapta em telas de tablets e smartphones de diferentes tamanhos, como você pode ver nessa imagem de visualização completa da página em um smartphone. Todos os elementos são reorganizados para caber perfeitamente na tela.
 
 <img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot mostrando a página completa no mobile">
 
