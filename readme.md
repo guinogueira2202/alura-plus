@@ -55,7 +55,7 @@ A página é completamente responsiva em desktops, tablets e smartphones de dife
 
 Você pode visualizar a página web aqui: 
 
-[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Page-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://fruta-e-fruto-teal.vercel.app/)](https://fruta-e-fruto-teal.vercel.app/)
+[![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Page-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://alura-plus-rose-two.vercel.app/)](https://alura-plus-rose-two.vercel.app/)
 
 ## Sobre Mim
 
