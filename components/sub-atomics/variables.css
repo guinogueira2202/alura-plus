@@ -27,3 +27,17 @@
     /*BANNERS*/
     --banner-home: url('/assets/background.png');
 }
+
+@media only screen and (max-width: 810px) {
+    :root {
+        /*TYPOGRAPHY*/
+        /*Titles Sizes*/
+        --title-size-big: 2rem;
+        --title-size-medium: 1.5rem;
+        --title-size-small: 1.2rem;
+        /*Texts Sizes*/
+        --text-size-big: 0.90rem;
+        --text-size-medium: 0.80rem;
+        --text-size-small: 0.70rem;
+    }
+}

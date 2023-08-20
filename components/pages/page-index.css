@@ -4,3 +4,21 @@
     background: var(--banner-home) no-repeat;
     background-size: contain;
 }
+
+@media only screen and (max-width: 810px) {
+    .page-hero-banner {
+        background: var(--banner-home) no-repeat;
+        background-size: cover;
+        background-position-x: 100%;
+        background-size: 170vw;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .page-hero-banner {
+        background: var(--banner-home) no-repeat;
+        background-size: cover;
+        background-position-x: 100%;
+        background-size: 170vw;
+    }
+}

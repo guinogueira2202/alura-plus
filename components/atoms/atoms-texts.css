@@ -19,3 +19,7 @@
     font-size: var(--text-size-small);
     font-weight: var(--font-weight-secondary);
 }
+
+.atom-text-align-center {
+    text-align: center;
+}

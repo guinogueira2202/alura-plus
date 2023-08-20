@@ -9,6 +9,10 @@
     padding: 1em;
     text-align: center;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1em;
 }
 
 .atom-btn-primary:hover {
@@ -16,8 +20,6 @@
 }
 
 .atom-btn-primary--modified {
-    display: flex;
-    justify-content: center;
     width: 15em;
 }
 
@@ -32,6 +34,10 @@
     text-align: center;
     border: 1px solid var(--color-text-primary);
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 1em;
     
 }
 

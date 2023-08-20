@@ -1,6 +1,7 @@
 @import './../sub-atomics/variables.css';
 
 .template-body {
+    flex-direction: column;
     box-sizing: border-box;
     background: var(--color-background);
 }
