@@ -3,26 +3,35 @@ Bem-vindo(a) ao meu projeto de página web do Combo+ da Alura Plus! Um projeto d
 
 Sou Guilherme Nogueira, estudante de desenvolvimento web na plataforma de ensino online [Alura](https://www.alura.com.br/). Esta é uma das páginas web que desenvolvi praticando front-end, com as linguagens HTML e CSS, ao longo do curso de **HTML e CSS: praticando HTML/CSS** - [certificado de conclusão](https://cursos.alura.com.br/certificate/54548af3-cc41-4c13-8431-6ddcca843476?lang=pt_BR).
 
+---
+
 ## Como Visualizar a Página
 
 Você pode visualizar essa página web aqui: 
 
 [![Visualizar projeto na Vercel](https://img.shields.io/badge/Vercel%20Cloud-Visualizar%20a%20página-blue?style=flat-square&logo=vercel&logoColor=white&link=https://alura-plus-rose-two.vercel.app/)](https://alura-plus-rose-two.vercel.app/)
 
+---
+
 ## Sobre o Projeto
 
 Se trata de uma "Landing Page" de uma plataforma de cursos online, contendo um **banner**, **conteúdo principal** e **rodapé**. Página web completamente responsiva em diferentes tamanhos de tela.
 
-A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action". A seção do conteúdo principal mostra as vantagens do produto/
-serviço da plataforma. Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
+* A seção "hero" da página contem um banner, título, logos e dois botões de "call-to-action".
+* A seção do conteúdo principal mostra as vantagens do produto/serviço da plataforma.
+* Por fim, o rodapé com os links relevantes, direitos autorais e informações da empresa.
 
 <img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_24_20.png" alt="Screenshot da visualização completa da página em desktop">
+
+---
 
 ## Responsividade Total em Dispositivos Móveis
 
 A página se adapta em telas de tablets e smartphones de diferentes tamanhos, como você pode ver nessa imagem de visualização completa da página em um smartphone. Todos os elementos são reorganizados para caber perfeitamente na tela.
 
 <img src="./assets/readme/screencapture-127-0-0-1-3000-index-html-2023-08-20-02_26_05.png" alt="Screenshot mostrando a página completa no mobile">
+
+---
 
 ## Linguagens Utilizadas
 
@@ -41,6 +50,8 @@ A página se adapta em telas de tablets e smartphones de diferentes tamanhos, co
 - Adotei nomenclatura de classes seguindo a metodologia BEM.
 - Organizei meus arquivos CSS utilizando a metodologia do Atomic Design, separando os estilos em organismos, moléculas e átomos.
 - Utilizei variáveis CSS para facilitar a manutenção, centralizando cores, fontes, tamanhos de fontes e pesos de fontes em um único lugar.
+
+---
 
 ## Sobre Mim
 
